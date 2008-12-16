@@ -1,15 +1,15 @@
-.h1 lorem-app - A shoes based lorem generator
+h1. lorem-app - A shoes based lorem generator
 
-lorem-app is a shoes based generator of Lorem text, basically polite wrapper around the lorem:http://lorem.rubyforge.org/ gem by John Nunemaker
+lorem-app is a shoes based generator of Lorem text, basically polite wrapper around the "lorem":http://lorem.rubyforge.org/ gem by John Nunemaker
 
-You can download an executeable for Windows:http://github.com/kennethkalmer/lorem-app/raw/master/dist/lorem-app.exe, Mac:http://github.com/kennethkalmer/lorem-app/raw/master/dist/lorem-app.dmg or Linux:http://github.com/kennethkalmer/lorem-app/raw/master/dist/lorem-app.run which will download all the dependencies for you and run the application.
+You can download an executeable for "Windows":http://github.com/kennethkalmer/lorem-app/raw/master/dist/lorem-app.exe, "Mac":http://github.com/kennethkalmer/lorem-app/raw/master/dist/lorem-app.dmg or "Linux":http://github.com/kennethkalmer/lorem-app/raw/master/dist/lorem-app.run which will download all the dependencies for you and run the application.
 
 h2. Improvements?
 
-Feel free to fork the project on github:http://github.com/kennethkalmer/lorem-app and contribute your improvements.
+Feel free to fork the project on "github":http://github.com/kennethkalmer/lorem-app and contribute your improvements.
 
 h2. Credits
 
-* _why the lucky stiff for shoes:http://www.shoooes.net
-* John Nunemaker for lorem:http://lorem.rubyforge.org
+* _why the lucky stiff for "shoes":http://www.shoooes.net
+* John Nunemaker for "lorem":http://lorem.rubyforge.org
 
